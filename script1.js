@@ -30,18 +30,19 @@ $(function () {
     buffInterval = null,
     tFlag = false,
     albums = [
-      "Austin Mahone",
-      "Lloyiso",
-      "Shawn Mendes",
-      "Frans CEO",
-      "Luh Kel"
-    ],
-    trackNames = [
       "All I ever want",
       "Dream about you",
       "Treat you better",
       "Ngiy'kthanda",
       "Something new"
+    ],
+    trackNames = [
+      "Austin Mahone",
+      "Lloyiso",
+      "Shawn Mendes",
+      "Frans CEO",
+      "Luh Kel"
+      
     ],
     albumArtworks = ["_1", "_2", "_3", "_4", "_5"],
     trackUrl = [
