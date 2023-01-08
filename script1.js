@@ -34,14 +34,14 @@ Kim$(function () {
       "Dream about you",
       "Alligator sky",
       "Ngiy'kthanda",
-      "Something new"
+      "Nobody gets me"
     ],
     trackNames = [
       "Austin Mahone",
       "Lloyiso",
       "Stephen Dawes",
       "Frans CEO",
-      "Luh Kel"
+      "SZA"
       
     ],
     albumArtworks = ["_1", "_2", "_3", "_4", "_5"],
@@ -50,7 +50,7 @@ Kim$(function () {
       "./song2.mp3",
       "https://github.com/zingisachs/myLamella/blob/e8d14e8d3073623867df625466dd7079c309e92a/yt5s.io%20-%20Alligator%20Sky%20-%20Owl%20City%20(Lyrics)%20(128%20kbps).mp3",
       "./song4.mp3",
-      "./song5.mp3"
+      "https://github.com/zingisachs/myLamella/blob/0714a62563cff0afc45b29ac689427f79317b2a8/14._Nobody_Gets_Me.mp3"
     ],
     playPreviousTrackButton = $("#play-previous"),
     playNextTrackButton = $("#play-next"),
