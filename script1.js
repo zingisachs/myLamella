@@ -33,8 +33,8 @@ $(function () {
       "All I ever want",
       "Dream about you",
       "Alligator sky",
-      "Ngiy'kthanda",
-      "Nobody gets me"
+      "Nobody gets me",
+      "Teenage dream"
     ],
     trackNames = [
       "Austin Mahone",
