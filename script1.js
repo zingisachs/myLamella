@@ -1,4 +1,4 @@
-$(function () {
+Kim$(function () {
   var playerTrack = $("#player-track"),
     bgArtwork = $("#bg-artwork"),
     bgArtworkUrl,
@@ -48,7 +48,7 @@ $(function () {
     trackUrl = [
       "./song1.mp3",
       "./song2.mp3",
-      "./song3.mp3",
+      "https://github.com/zingisachs/myLamella/blob/e8d14e8d3073623867df625466dd7079c309e92a/yt5s.io%20-%20Alligator%20Sky%20-%20Owl%20City%20(Lyrics)%20(128%20kbps).mp3",
       "./song4.mp3",
       "./song5.mp3"
     ],
