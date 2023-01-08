@@ -40,8 +40,8 @@ $(function () {
       "Austin Mahone",
       "Lloyiso",
       "Owl City",
-      "Stephen Dawes",
-      "SZA"
+      "SZA",
+      "Stephen Dawes "
       
     ],
     albumArtworks = ["_1", "_2", "_3", "_4", "_5"],
