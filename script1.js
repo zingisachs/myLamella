@@ -32,7 +32,7 @@ $(function () {
     albums = [
       "All I ever want",
       "Dream about you",
-      "Treat you better",
+      "Alligator sky",
       "Ngiy'kthanda",
       "Something new"
     ],
