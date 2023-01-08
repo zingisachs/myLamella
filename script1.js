@@ -39,8 +39,8 @@ $(function () {
     trackNames = [
       "Austin Mahone",
       "Lloyiso",
+      "Owl City",
       "Stephen Dawes",
-      "Frans CEO",
       "SZA"
       
     ],
